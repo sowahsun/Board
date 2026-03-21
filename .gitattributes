@@ -1,0 +1,3 @@
+*.dat linguist-vendored=true
+*.dat linguist-generated=true
+*.dat binary
