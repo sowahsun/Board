@@ -1,0 +1,15 @@
+{
+    "name": "amber/matrix-sharder",
+    "description": "High-performance distributed encryption sharding engine.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "ext-openssl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Amber\Matrix\": "src/"
+        }
+    }
+}
